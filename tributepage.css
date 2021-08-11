@@ -1,0 +1,23 @@
+#main {
+    font-family: 'Teko', sans-serif;
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 80px;
+}
+
+#title {
+    text-align: center;
+    font-size: 80px;
+}
+
+#tribute-info {
+    font-size: 40px;
+    text-align: justify;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
